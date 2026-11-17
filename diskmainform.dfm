@@ -1007,11 +1007,11 @@ object diskmainformf: Tdiskmainformf
           '')
       end
       object BitBtn1: TBitBtn
-        Left = 449
+        Left = 423
         Top = 401
-        Width = 75
+        Width = 101
         Height = 25
-        Caption = 'Kaydet'
+        Caption = 'Ayarlar'#305' Kaydet'
         TabOrder = 10
         OnClick = BitBtn1Click
       end
@@ -1056,7 +1056,7 @@ object diskmainformf: Tdiskmainformf
         TabOrder = 15
       end
       object BitBtn2: TBitBtn
-        Left = 128
+        Left = 91
         Top = 401
         Width = 160
         Height = 25
@@ -1065,7 +1065,7 @@ object diskmainformf: Tdiskmainformf
         OnClick = BitBtn2Click
       end
       object BitBtn3: TBitBtn
-        Left = 288
+        Left = 257
         Top = 401
         Width = 160
         Height = 25

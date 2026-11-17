@@ -17,7 +17,7 @@ uses
   IdIOHandler, IdIOHandlerSocket, IdIOHandlerStack, IdSSL, IdSSLOpenSSL,
   IdComponent, IdTCPConnection, IdTCPClient, IdExplicitTLSClientServerBase,
   IdMessageClient, IdSMTPBase, IdSMTP, IdBaseComponent, IdMessage, IdException,
-  IdSSLOpenSSLHeaders;
+  IdSSLOpenSSLHeaders, IdCTypes;
 
 type
   Tdiskmainformf = class(TForm)
